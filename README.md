@@ -1,4 +1,4 @@
-# Auto WordPress Chaker
+# Auto WordPress-Chaker
 
 ## Badge
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -91,7 +91,7 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 Jika Anda memiliki pertanyaan, permintaan fitur, atau laporan bug, silakan:
 
 - Buka [Issue di GitHub](https://github.com/LikeEx01/Wordpress-Cheker.git)  
-- Hubungi saya melalui Telegram: [LikeEx01]https://t.me/usernamee1337)
+- Hubungi saya melalui Telegram: [LikeEx01](https://t.me/usernamee1337)
 
 ## Terima Kasih
 Terima kasih telah menggunakan **Auto WordPress Chaker**.  
