@@ -49,7 +49,7 @@ pip3 install requests idna
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/LikeEx01/AutoCheker.git
+git clone https://github.com/LikeEx01/Wordpress-Cheker.git
 ```
 
 2. Masuk ke direktori:
@@ -90,11 +90,11 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 ## Kontak
 Jika Anda memiliki pertanyaan, permintaan fitur, atau laporan bug, silakan:
 
-- Buka [Issue di GitHub](https://github.com/RidXploit403/AutoCheker/issues)  
-- Hubungi saya melalui Telegram: [@TempeSec1337](https://t.me/TempeSec1337)
+- Buka [Issue di GitHub](https://github.com/LikeEx01/Wordpress-Cheker.git)  
+- Hubungi saya melalui Telegram: [LikeEx01]https://t.me/usernamee1337)
 
 ## Terima Kasih
 Terima kasih telah menggunakan **Auto WordPress Chaker**.  
 Semoga alat ini bermanfaat untuk mengamankan dan menguji keamanan situs WordPress Anda secara legal.
 
-🔗 **Repo GitHub:** [https://github.com/RidXploit403/AutoCheker](https://github.com/RidXploit403/AutoCheker)
+🔗 **Repo GitHub:** [LikeEx01](https://github.com/LikeEx01/Wordpress-Cheker.git)
